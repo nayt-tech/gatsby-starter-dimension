@@ -9,35 +9,17 @@ const Header = props => (
     </div>
     <div className="content">
       <div className="inner">
-        <h1>Nayt Capital Limited</h1>
+        <h1>NAYT</h1>
         <p>
-          A ...... 
-          <br />
-          and .......
+        Quantitative Trading 
+        <br />
+        SINGAPORE | HONG KONG | SHANGHAI
         </p>
       </div>
     </div>
     <nav>
       <ul>
-        <li>
-          <button
-            onClick={() => {
-              props.onOpenArticle('intro')
-            }}
-          >
-            Intro
-          </button>
-        </li>
-        <li>
-          <button
-            onClick={() => {
-              props.onOpenArticle('work')
-            }}
-          >
-            Work
-          </button>
-        </li>
-        <li>
+      <li>
           <button
             onClick={() => {
               props.onOpenArticle('about')
@@ -53,6 +35,15 @@ const Header = props => (
             }}
           >
             Contact
+          </button>
+        </li>
+        <li>
+          <button
+            onClick={() => {
+              props.onOpenArticle('work')
+            }}
+          >
+            Work
           </button>
         </li>
       </ul>

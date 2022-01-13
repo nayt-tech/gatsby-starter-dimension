@@ -134,7 +134,7 @@ class Main extends React.Component {
                 <span className="label">GitHub</span>
               </a>
             </li> */}
-          </ul>
+          {/* </ul> */}
           {close}
         </article>
       </div>

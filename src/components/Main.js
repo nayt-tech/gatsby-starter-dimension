@@ -107,13 +107,14 @@ class Main extends React.Component {
               </li>
             </ul>
           </form>  */}
-           <ul className="icons">
+          <p><a href='enquiries@nayt.io'>enquiries@nayt.io</a></p>
+           {/* <ul className="icons">
             <li>
               <a href="enquiries@nayt.io" className="icon fa-email">
                 <span className="label">Email</span>
               </a>
             </li>
-          </ul>
+          </ul> */}
           {close}
         </article>
       </div>

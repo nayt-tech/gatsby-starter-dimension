@@ -12,7 +12,6 @@ const Header = props => (
         <p>
         Quantitative Trading and Investing 
         </p>
-        <br />
         <p>
         SINGAPORE | HONG KONG | SHANGHAI
         </p>

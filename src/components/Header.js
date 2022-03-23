@@ -11,7 +11,9 @@ const Header = props => (
         <h1>NAYT</h1>
         <p>
         Quantitative Trading and Investing 
+        </p>
         <br />
+        <p>
         SINGAPORE | HONG KONG | SHANGHAI
         </p>
       </div>

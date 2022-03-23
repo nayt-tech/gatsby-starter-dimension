@@ -10,7 +10,7 @@ const Header = props => (
       <div className="inner">
         <h1>NAYT</h1>
         <p>
-        Quantitative Trading 
+        Quantitative Trading and Investing 
         <br />
         SINGAPORE | HONG KONG | SHANGHAI
         </p>
@@ -18,7 +18,7 @@ const Header = props => (
     </div>
     <nav>
       <ul>
-      <li>
+      {/* <li>
           <button
             onClick={() => {
               props.onOpenArticle('about')
@@ -26,7 +26,7 @@ const Header = props => (
           >
             About
           </button>
-        </li>
+        </li> */}
         <li>
           <button
             onClick={() => {
@@ -42,7 +42,7 @@ const Header = props => (
               props.onOpenArticle('work')
             }}
           >
-            Work
+            Recruitment
           </button>
         </li>
       </ul>

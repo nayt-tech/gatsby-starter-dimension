@@ -62,7 +62,8 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">Work</h2>
+          <h2 className="major">Recruitment</h2>
+          <p><a href='enquiries@nayt.io'>enquiries@nayt.io</a></p>
           {close}
         </article>
 

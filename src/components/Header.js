@@ -8,7 +8,7 @@ const Header = props => (
     </div> */}
     <div className="content">
       <div className="inner">
-        <h1>NAYT</h1>
+        <h1>nayt technologies</h1>
         <p>
         Quantitative Trading and Investing 
         </p>
